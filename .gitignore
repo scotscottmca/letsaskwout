@@ -1,0 +1,4 @@
+# Verification and temporary files
+website-verification.png
+*.tmp
+/tmp/
